@@ -13,5 +13,8 @@ Let's see where our tcp packet get through...
 * because with a fil d'ariane (breadcrumb navigation) you know where you are
 * because it is easy to recall
 
+# installation
+...
 
-Will see where it will take us
+# usage
+download it, you'll see
