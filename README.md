@@ -1,6 +1,6 @@
 # ariane
 
-Let's see where our tcp packet get through... 
+Let's see where our packets get through... 
 
 # traceroute in rust
 ## why?
